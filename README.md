@@ -11,7 +11,7 @@ This project is a hands-on practice for HTML and CSS development, focusing on cr
 
 ## Live Page
 
-Check out the live page of the project [here](https://alaakholif.github.io/Daniels-Website/). 
+Check out the live page of the project [here](https://alaakholif.github.io/Bakery/). 
 
 ## Notes
 
